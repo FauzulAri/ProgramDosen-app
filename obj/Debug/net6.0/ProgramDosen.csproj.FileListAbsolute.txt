@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Sem 2\ProgramDosen\bin\Debug\net6.0\ProgramDosen.exe
+C:\Users\user\Documents\Sem 2\ProgramDosen\bin\Debug\net6.0\ProgramDosen.deps.json
+C:\Users\user\Documents\Sem 2\ProgramDosen\bin\Debug\net6.0\ProgramDosen.runtimeconfig.json
+C:\Users\user\Documents\Sem 2\ProgramDosen\bin\Debug\net6.0\ProgramDosen.dll
+C:\Users\user\Documents\Sem 2\ProgramDosen\bin\Debug\net6.0\ProgramDosen.pdb
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\ProgramDosen.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\ProgramDosen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\ProgramDosen.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\ProgramDosen.AssemblyInfo.cs
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\ProgramDosen.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\ProgramDosen.dll
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\refint\ProgramDosen.dll
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\ProgramDosen.pdb
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\ProgramDosen.genruntimeconfig.cache
+C:\Users\user\Documents\Sem 2\ProgramDosen\obj\Debug\net6.0\ref\ProgramDosen.dll
